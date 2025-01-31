@@ -58,7 +58,7 @@ PrimaryExpression {
   Boolean |
   String |
   number |
-  "(" expression ")"
+  "(" expression* ")"
 }
 
 RelationalExpression {
